@@ -1,0 +1,9 @@
+{
+    "name": "my_test",
+    "version": "1.0.0",
+    "require-dev": {
+    },
+    "require": {
+        "phpunit/phpunit": "7.5.2"
+    }
+}
